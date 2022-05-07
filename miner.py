@@ -6,7 +6,7 @@ from pprint import pprint
 import time
 import random
 
-address = 'bc1q70jx6q20ljjr356y9k2ehmcw44v4hs29fagt0q'
+address = '324WgjfrMMMtmBZZ9qaRP6i7Tz1CqnDozW'
 nonce   = hex(random.randint(0,2**32-1))[2:].zfill(8)
 
 host    = 'solo.ckpool.org'
